@@ -1,1 +1,7 @@
-##![Windows 8 Logo](https://github.com/Stoutscientist/Windows-8-on-11/assets/90054049/0a9e595a-5897-429a-aca6-70285644df36)
+<p align="center">
+  <img width="500" src="Resources\Windows 8 Logo.png">
+</p>
+
+This is an attempt to get the Windows 8 explorer running on Windows 11!
+
+	**This is only for testing on a VM! _DO NOT_ install this on your main OS! I'm not liable for any damage!**
