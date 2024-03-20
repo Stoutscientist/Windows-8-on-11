@@ -9,7 +9,7 @@
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) 
 ![Stars](https://img.shields.io/github/stars/Stoutscientist/Windows-8-on-11?style=flat-square&label=Stars)
-[![GitHub repo Issues](https://img.shields.io/github/issues/Stoutscientist/Windows-8-on-11?style=flat&label=Issues)](https://github.com/Stoutscientist/Windows-8-on-11/issues)
+[![GitHub repo Issues](https://img.shields.io/github/issues/Stoutscientist/Windows-8-on-11?style=flat-square&label=Issues)](https://github.com/Stoutscientist/Windows-8-on-11/issues)
 
 </div>
 
