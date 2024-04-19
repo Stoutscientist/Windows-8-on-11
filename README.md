@@ -18,4 +18,7 @@ Researching getting Windows 8 apps working on Windows 11! The plan is if I get e
 Current Problem:
 Most apps are crashing because they/their libraries can't find ordinal_1 in ntdll.dll, what is that function? I have no idea. That's the problem.
 
+Current Task:
+Get explorer.exe working
+
 **This is only for testing on a VM! _DO NOT_ install this on your main OS! I'm not liable for any damage!**
