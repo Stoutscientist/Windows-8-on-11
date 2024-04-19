@@ -13,10 +13,9 @@
 
 </div>
 
-## Installation
-Go to releases then download and run the latest exe!
+Researching getting Windows 8 apps working on Windows 11! The plan is if I get everything working, make a build of Windows 11 that is debloated and looks exactly like 8.1!
 
-## How it works
-This contains 3 files, the old explorer, and two dlls. The first one is `dwmapi.dll`, it handles all of the window management, the second is `uxtheme.dll`, it handles all the theming (app colors, etc.)
+Current Problem:
+Most apps are crashing because they/their libraries can't find ordinal_1 in ntdll.dll, what is that function? I have no idea. That's the problem
 
 **This is only for testing on a VM! _DO NOT_ install this on your main OS! I'm not liable for any damage!**
