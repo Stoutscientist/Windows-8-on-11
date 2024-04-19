@@ -2,7 +2,7 @@
   <img width="500" src="Resources\Windows 8 Logo.png">
 </p>
 
-<h2 align="center">This is an attempt to get the Windows 8 explorer running on Windows 11!</h1>
+<h2 align="center">An attempt to the Windows 8 apps running on Windows 11!</h1>
 
 
 <div align="center" markdown="1">
